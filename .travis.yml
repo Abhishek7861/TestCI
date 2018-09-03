@@ -1,3 +1,4 @@
 language: C
 
 build: make
+script: make
