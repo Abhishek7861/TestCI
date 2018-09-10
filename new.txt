@@ -1,0 +1,5 @@
+hellofunc.c
+hellomake.c
+hellomake.h
+Makefile
+new.txt
